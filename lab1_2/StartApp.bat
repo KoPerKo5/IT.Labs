@@ -1,0 +1,1 @@
+start ./lab1_2/bin/Debug/net8.0-windows7.0/lab1_2.exe
